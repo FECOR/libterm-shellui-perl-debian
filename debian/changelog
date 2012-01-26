@@ -1,3 +1,9 @@
+libterm-shellui-perl (0.91-1ppa1~precise1) precise; urgency=low
+
+  * Some fixes in package.
+
+ -- Boris Pek <tehnick-8@mail.ru>  Fri, 27 Jan 2012 00:14:00 +0200
+
 libterm-shellui-perl (0.91-1) unstable; urgency=low
 
   * Initial release (closes: #657471).
